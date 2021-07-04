@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <h3 style="text-align:center;font-family:Courier New;color:#e2dcd5; background-color:black">Magic: The Gathering Dashboard</h3>
+  
+  <body style="background-color:black;">
+    <center>
+    <iframe style="width:100%; height:500px;overflow:auto;" <iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8a2c0ac5-9790-440f-a686-ee184ec46577&autoAuth=true&ctid=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+   </center>
+        
+  </body>
+  
+</html>
