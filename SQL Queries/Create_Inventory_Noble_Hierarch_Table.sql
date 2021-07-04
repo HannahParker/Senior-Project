@@ -59,4 +59,7 @@ SELECT * INTO dbo.Inventory_Noble_Hierarch FROM(
 	UNION ALL
 	SELECT * 
 	FROM dbo.[Inventory_Noble_Hierarch_2021.June.24]
+	UNION ALL
+	SELECT * 
+	FROM dbo.[Inventory_Noble_Hierarch_2021.July.03]
 	) as tmp

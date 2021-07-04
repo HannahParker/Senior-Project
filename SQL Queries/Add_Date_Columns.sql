@@ -76,5 +76,9 @@ ALTER TABLE SENIOR_PROJECT.dbo.[Inventory_Noble_Hierarch_2021.May.28]
 	ADD Date DATE NOT NULL
 	DEFAULT('2021-05-28');
 
+ALTER TABLE SENIOR_PROJECT.dbo.[Inventory_Noble_Hierarch_2021.July.03]
+	ADD Date DATE NOT NULL
+	DEFAULT('2021-07-03');
+
 
 
